@@ -29,34 +29,10 @@ A full-stack application that detects whether a given text is AI-generated or hu
 
 
 
-## 🧰 How to Run the Project Locally
-
-### 1. Clone the Repository
-
-git clone https://github.com/YOUR_USERNAME/ai-vs-human-written-text.git
-cd ai-vs-human-written-text
-
-**run the python backend**
-
--cd backend/python
--python -m venv venv
--source venv/bin/activate        # On Windows: venv\Scripts\activate
--pip install -r requirements.txt
--python server.py
-
-**run node**
-Open another terminal tab:
-cd backend
-npm install
-node index.js
 
 
 
-**Run the Frontend**
-Open another terminal tab
-cd frontend
-npm install
-npm start
+
 
 
 
