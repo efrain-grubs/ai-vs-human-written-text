@@ -38,11 +38,11 @@ cd ai-vs-human-written-text
 
 **run the python backend**
 
-cd backend/python
-python -m venv venv
-source venv/bin/activate        # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-python server.py
+-cd backend/python
+-python -m venv venv
+-source venv/bin/activate        # On Windows: venv\Scripts\activate
+-pip install -r requirements.txt
+-python server.py
 
 **run node**
 Open another terminal tab:
